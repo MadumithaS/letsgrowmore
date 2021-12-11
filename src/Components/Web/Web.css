@@ -12,13 +12,13 @@ body {
   box-shadow: 2px 2px 4px #000;
   justify-content: space-between;
   align-items: center;
-  background-color: #feac22;
+  background-color: blue;
 }
 .btn {
   border-radius: 10rem;
   box-shadow: 3px 3px 6px #000;
   padding: 1rem;
-  color: black;
+  color: brown;
   font-size: 1rem;
   font-weight: bolder;
   background-color: #94a809;
@@ -30,7 +30,7 @@ body {
 }
 
 .btn:hover {
-  box-shadow: 2px 2px 2px 3px black;
+  box-shadow: 2px 2px 2px 3px white;
   transition: all 0.2s ease-out;
   text-decoration: none;
   background-color: #fff;
